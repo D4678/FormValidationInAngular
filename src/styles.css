@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+.has-error input {
+    border-color: red; /* Change the border color of the input */
+}
+
+.has-error .help-block {
+    color: red; /* Change the color of the error message */
+}
